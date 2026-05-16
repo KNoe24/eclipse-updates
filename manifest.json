@@ -1,6 +1,6 @@
 {
   "name": "Default",
-  "clientVersion": "1.0.3",
+  "clientVersion": "1.0.4",
   "minecraftVersion": "1.21.11",
   "versionType": "release",
   "loaderType": "custom",
@@ -264,11 +264,11 @@
       "sha256": "e5ec898f25bff85871d843fed26306a505c91bcd81b1adcbe63418ae3ab43faf"
     },
     {
-      "path": "versions/eclipse-client/eclipse-fabric.jar",
+      "path": "versions/eclipse-client/eclipse-client.jar",
       "sha256": "83d30b40c94bc215d19fa1666c22c87e1344db79d8fcfcc6791c187e92f1960b"
     },
     {
-      "path": "versions/eclipse-client/eclipse-fabric.json",
+      "path": "versions/eclipse-client/eclipse-client.json",
       "sha256": "c143d57796f7bb2b7b08e77c6f1a1877f7bc77aaa552ad2d237aaf8c6a71528b"
     }
   ]
