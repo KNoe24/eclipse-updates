@@ -1,10 +1,10 @@
 {
   "name": "Default",
-  "clientVersion": "1.0.9",
+  "clientVersion": "1.1.0",
   "minecraftVersion": "1.21.11",
   "versionType": "release",
   "loaderType": "custom",
-  "customVersionId": "fabric-loader-0.18.3-1.21.11.jar",
+  "customVersionId": "fabric-loader-0.18.3-1.21.11",
   "updateMode": "ask",
   "memory": {
     "min": "2G",
