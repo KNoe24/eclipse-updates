@@ -12,6 +12,7 @@ npm-debug.log*
 
 # Environment files
 .env
+.gitattributes
 
 # OS / editor
 .DS_Store
