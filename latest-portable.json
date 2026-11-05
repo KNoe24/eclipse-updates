@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "file": "Eclipse Client-1.0.0-portable.exe",
-  "sha512": "3b05a3e75aee25bf0585c514b44a075b4264e434549baff5aeda88f7ca50525e176e40715925c4724a318f83d0e1624b2540fe50619fbd08303f41315dee7cf5",
-  "size": 87697399,
-  "releaseDate": "2026-11-05T18:18:14.641Z"
+  "version": "1.0.1",
+  "file": "Eclipse Client-1.0.1-portable.exe",
+  "sha512": "2bd9556543f50c20efe389a0362f72cfd11f7fccdcee951baa2994769bbb846e6e8a0c0a29158def4f1ee4b1c794e146e5f3d027c22669b8e6711a94294e1ab1",
+  "size": 87698762,
+  "releaseDate": "2026-11-05T22:11:33.138Z"
 }
