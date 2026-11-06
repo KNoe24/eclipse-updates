@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.1
 files:
-  - url: Eclipse Client Setup 1.0.0.exe
-    sha512: hVS6oNaTumXNrbj84lk0kXrSgMF1Xun4K0g8nywDU5mP0ffhlO2WpCS3cEhaoiFtNNrxZpcsBXRgecJ2VegLMQ==
-    size: 87927094
-path: Eclipse Client Setup 1.0.0.exe
-sha512: hVS6oNaTumXNrbj84lk0kXrSgMF1Xun4K0g8nywDU5mP0ffhlO2WpCS3cEhaoiFtNNrxZpcsBXRgecJ2VegLMQ==
-releaseDate: '2026-11-05T22:24:19.679Z'
+  - url: Eclipse Client Setup 1.0.1.exe
+    sha512: fX4+0TrbD23xHrdEfF6kvBkfTHnBqL7jK5Sn4UC/dvFayGJNTfqHZcSmlsFISZoO118bd/wXQO0TL2DVqme6ig==
+    size: 87957153
+path: Eclipse Client Setup 1.0.1.exe
+sha512: fX4+0TrbD23xHrdEfF6kvBkfTHnBqL7jK5Sn4UC/dvFayGJNTfqHZcSmlsFISZoO118bd/wXQO0TL2DVqme6ig==
+releaseDate: '2026-11-06T06:30:04.444Z'
